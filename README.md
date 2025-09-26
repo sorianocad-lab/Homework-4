@@ -1,7 +1,7 @@
 /* adventure_toolkit.py */
 
 """Adventure Toolkit — Chapters 1–3,5
-Authors: <Name1>, <Name2>, <Name3>
+Authors: <Diego.S>, 
 Course/Section: CS/CMPE 115, <Term>
 Description: Prep utilities (time/coins/eligibility) + mini-adventure with recursion and conditionals.
 """
